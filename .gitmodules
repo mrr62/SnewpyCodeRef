@@ -1,0 +1,3 @@
+[submodule "snewpyternary"]
+	path = snewpyternary
+	url = https://github.com/stlgolfer/snewpyternary
